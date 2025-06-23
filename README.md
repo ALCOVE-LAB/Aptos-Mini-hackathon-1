@@ -86,13 +86,15 @@ Vietnam Aptos Hackathon 正在越南火热进行中，
 ​推特：https://x.com/alcove_pro
 
 ### ​Aptos
-​Aptos 是采用 Move 语言的 Layer 1 区块链，致力于提供可扩展性、可靠性、安全性和可用性。Move 语言是专为安全的智能合约而设计的，其最显著的特点是安全性。
+​
+Aptos 是采用 Move 语言的 Layer 1 区块链，致力于提供可扩展性、可靠性、安全性和可用性。Move 语言是专为安全的智能合约而设计的，其最显著的特点是安全性。
 
 ​Aptos 的投资者包括 a16z、Multicoin Capital、Coinbase Ventures、Binance Labs、PayPal 和 Tiger Global 等知名投资机构。
 
 ​推特：https://x.com/Aptos
 
-​### Movemaker
+### Movemaker
+
 ​Movemaker 是由 Aptos 基金会授权，经 Ankaa 和 BlockBooster 联合发起的官方社区组织，专注于推动 Aptos 华语区生态的建设与发展。
 
 ​作为 Aptos 在华语区的官方代表，Movemaker 获得了来自 Aptos 基金会百万美元级的资金和资源支持，将致力于通过连接开发者、用户、资本及众多生态合作伙伴，打造一个多元、开放、繁荣的 Aptos 生态系统。 
@@ -101,7 +103,8 @@ Vietnam Aptos Hackathon 正在越南火热进行中，
 
 ​推特：https://x.com/MovemakerCN
 
-​### OpenCAS
+### OpenCAS
+
 ​OpenCAS：中国科学院大学开源软件与区块链协会，学生主导的区块链研究与开发社区，活跃于开源贡献，持续举办专注前沿议题的「OpenTalk」技术分享，
 
 ​连接科研与实战，探索可信开放的未来
