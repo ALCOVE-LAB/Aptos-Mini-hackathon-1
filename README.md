@@ -109,6 +109,8 @@ Aptos 是采用 Move 语言的 Layer 1 区块链，致力于提供可扩展性�
 
 ​连接科研与实战，探索可信开放的未来
 
+推特: https://x.com/opencas_ucas
+
 
 
 ## 项目提交指南
