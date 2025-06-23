@@ -1,6 +1,10 @@
-a# Aptos Mini 黑客松 1.0 🚀 一次参赛，双重机会！
+# Aptos Mini 黑客松 1.0 🚀 一次参赛，双重机会！
 
 ## 介绍
+
+### lu.ma 活动页
+https://lu.ma/ukiap5hf
+
 >Aptos Mini 黑客松 #1 × Vietnam Aptos Hackathon 联动来袭！
 
 Vietnam Aptos Hackathon 正在越南火热进行中，
