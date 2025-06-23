@@ -76,10 +76,6 @@ Vietnam Aptos Hackathon 正在越南火热进行中，
 
 项目提交：https://github.com/ALCOVE-LAB/Aptos-Mini-hackathon-1
 
-​​​​​​​​​​​​​WeChat ID：xxycan，备注“Aptos 迷你黑客松入群”。
-
-![image](https://github.com/user-attachments/assets/cb43c261-f46c-471a-8d48-f80919fec188)
-
 ### ​alcove
 ​alcove 致力于支持富有才华的开发者，使用 Move 语言构建下一代 Web3 应用。 在 alcove ，创造更多可能。一步创新，一步成就。Make Your Move。
 
