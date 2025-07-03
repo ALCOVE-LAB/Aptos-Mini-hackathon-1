@@ -1,0 +1,3 @@
+[submodule "PersonaNormale-ChainCasino"]
+	path = PersonaNormale-ChainCasino
+	url = https://github.com/PersonaNormale/ChainCasino.git
