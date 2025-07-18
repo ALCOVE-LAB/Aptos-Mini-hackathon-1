@@ -1,3 +1,6 @@
 [submodule "01-PersonaNormale-ChainCasino"]
 	path = 01-PersonaNormale-ChainCasino
 	url = https://github.com/PersonaNormale/ChainCasino.git
+[submodule "16-BuidlerBoard-Move"]
+	path = 16-BuidlerBoard-Move
+	url = https://github.com/BeWaterXYZ/BuidlerBoard-Move
